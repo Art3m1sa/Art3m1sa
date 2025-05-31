@@ -8,7 +8,7 @@
 - 行业笔记
 
 ## 最新文章
-- [Next.js 入门指南](/posts/nextjs-guide)
+- [再生元回到10年前](/posts/regeneron_10_years)
 
 ## 联系我
 📧 email@example.com  
