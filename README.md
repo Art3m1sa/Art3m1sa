@@ -1,18 +1,17 @@
-## Hi there 👋
+# 欢迎访问我的投资博客！ 👋
 
-[regeneron](/posts/regeneron_10_years.md)
+[![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-brightgreen)](https://pages.github.com)
 
-<!--
-**Art3m1sa/Art3m1sa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我是一名价值投资学徒，这里分享一些学习笔记：
+- 宏观学习
+- 策略学习
+- 行业笔记
 
-Here are some ideas to get you started:
+## 最新文章
+- [再生元回到10年前](/posts/regeneron_10_years)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 联系我
+📧 email@example.com  
+🐦 [@twitter_handle](https://twitter.com/yourhandle)
+
+[查看所有文章 →](/archive)
