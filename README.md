@@ -8,7 +8,7 @@
 - 行业笔记
 
 ## 最新文章
-- [再生元回到10年前](/posts/regeneron_10_years)
+- [再生元回到10年前](/posts/regeneron_10_years.md)
 
 ## 联系我
 📧 email@example.com  
